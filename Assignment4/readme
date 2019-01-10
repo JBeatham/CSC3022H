@@ -1,0 +1,11 @@
+Use following commands in terminal to achieve desired results.
+
+I1 is the first image, I2 is second image. in the form <name>.pgm
+
+./imageops -a I1 I2 OutputImageName.pgm	Addition
+./imageops -s I1 I2 OutputImageName.pgm	Subtraction
+./imageops -i I1 OutputImageName.pgm	Invert
+./imageops -l I1 I2 OutputImageName.pgm	Mask
+./imageops -t I1 f OutputImageName.pgm	Threshold f is an int.
+
+Spell the image names correct.
