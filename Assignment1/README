@@ -1,0 +1,17 @@
+Upon running a menu appears.
+Select desired option.
+Follow Instructions.
+press q to quit.
+
+
+
+
+
+
+
+
+
+
+DRIVER.cpp handles user input and the menu thing.
+
+Databases.cpp contains all the functions.
